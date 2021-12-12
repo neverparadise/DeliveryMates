@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "746395622647",
+    "project_id": "designthinking-86c13",
+    "storage_bucket": "designthinking-86c13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746395622647:android:d73b27040e7050c6fd47f2",
+        "android_client_info": {
+          "package_name": "org.techtown.designthinking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "746395622647-49v8btm2rqb9ps2kuinv50hem5eg9so3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBd4Me5s5WgLw9pXUTWolt2kzWBCroj9Pw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "746395622647-49v8btm2rqb9ps2kuinv50hem5eg9so3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

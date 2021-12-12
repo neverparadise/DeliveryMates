@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ye200/AndroidStudioProjects/DesignThinking/app/src/main/res/drawable/border.xml" value="0.24479166666666666" />
+        <entry key="..\:/Users/ye200/AndroidStudioProjects/DesignThinking/app/src/main/res/drawable/ic_man.xml" value="0.4203125" />
+        <entry key="..\:/Users/ye200/AndroidStudioProjects/DesignThinking/app/src/main/res/drawable/my_msg.xml" value="0.24583333333333332" />
+        <entry key="..\:/Users/ye200/AndroidStudioProjects/DesignThinking/app/src/main/res/drawable/other_msg.xml" value="0.24583333333333332" />
+        <entry key="..\:/Users/ye200/AndroidStudioProjects/DesignThinking/app/src/main/res/font-v26/font.xml" value="0.434375" />
+        <entry key="..\:/Users/ye200/AndroidStudioProjects/DesignThinking/app/src/main/res/font/font.xml" value="0.434375" />
+        <entry key="..\:/Users/ye200/AndroidStudioProjects/DesignThinking/app/src/main/res/layout-w1240dp/activity_login.xml" value="0.339453125" />
+        <entry key="..\:/Users/ye200/AndroidStudioProjects/DesignThinking/app/src/main/res/layout-w936dp/activity_login.xml" value="0.303125" />
+        <entry key="..\:/Users/ye200/AndroidStudioProjects/DesignThinking/app/src/main/res/layout/activity_chat.xml" value="0.176" />
+        <entry key="..\:/Users/ye200/AndroidStudioProjects/DesignThinking/app/src/main/res/layout/activity_chat_list.xml" value="0.22864583333333333" />
+        <entry key="..\:/Users/ye200/AndroidStudioProjects/DesignThinking/app/src/main/res/layout/activity_login.xml" value="0.23933649289099526" />
+        <entry key="..\:/Users/ye200/AndroidStudioProjects/DesignThinking/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/ye200/AndroidStudioProjects/DesignThinking/app/src/main/res/layout/activity_map.xml" value="0.22864583333333333" />
+        <entry key="..\:/Users/ye200/AndroidStudioProjects/DesignThinking/app/src/main/res/layout/activity_register.xml" value="0.2" />
+        <entry key="..\:/Users/ye200/AndroidStudioProjects/DesignThinking/app/src/main/res/layout/content_chat_list.xml" value="0.22864583333333333" />
+        <entry key="..\:/Users/ye200/AndroidStudioProjects/DesignThinking/app/src/main/res/layout/row_chat.xml" value="0.22864583333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
